@@ -98,13 +98,14 @@ To run the node, follow the additional steps below.
 
 |      Name      |        Area of Focus        |
 |:--------------:|:---------------------------:|
-|  Mindy Cha     |  Team Lead, On-Device Code  |
-| Michael Ingrum | Backend Dev, On-Device Code |
-|   Alec Resha   |    AI/ML, Data Pipeline     |
-| Chloe Hendrix  |      API/Connectivity       |
-| Justin Henley  |        Databases Dev        |
-|   Lan Nguyen   |        Front End Dev        |
-|   Dang Hoang   |        Front End Dev        |
+|  Manvir Kaur   |  Team Lead & Hardware Lead |
+|  Mindy Cha     |       AI/ML     |
+|  Jian Chen     |  Hardware    |
+|  Liana Coyle  |       AI/ML Lead    |
+|  Amaan Eziz  | UI/Database Lead |
+|  Anh Phan      | UI/Database |
+|  Luda Solva    |       AI/ML     |
+| Kyle Barreras |  Hardware   |
 
 ## Documentation
 
